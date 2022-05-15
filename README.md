@@ -25,3 +25,22 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+Released tag:
+
+Ejecutar desde la consola:
+    git tag -a v.0.1.0 -m "Fin sección 4"
+        -a versión anotada
+    git tag
+    git push --tags
+
+Ir a github, dar clic en releases
+clic sobre la versión del tag y seleccionar Edit Tag
+Agregar un comentario
+  Fin sección 4
+
+  # Notas
+  Puras bases de Angular
+
+Publish release.
